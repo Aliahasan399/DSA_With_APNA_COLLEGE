@@ -1,4 +1,4 @@
-//sub array print
+//sub array sum print
 #include<iostream>
 using namespace std;
 int main(){
