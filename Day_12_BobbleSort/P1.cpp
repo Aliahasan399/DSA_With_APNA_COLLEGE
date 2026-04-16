@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-int array[]={1,20,4,-1,3};
+int array[]={3,6,2,1,8,7,4,5,3,1};
 int size=sizeof(array)/sizeof(int);
 for(int i=0;i<size-1;i++)
 {
