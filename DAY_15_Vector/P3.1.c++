@@ -27,4 +27,5 @@ int main(){
     int target=9;
     vector<int> answer=pairsum(numbers,target);
     cout<< answer[0] <<","<<answer[1];
+    return 0;
 }
